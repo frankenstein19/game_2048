@@ -37,9 +37,6 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
-  # Theme Provider
-  flex_color_scheme: ^5.0.1
-
   # Bloc and provider packages
   provider: ^6.0.2
   flutter_bloc: ^8.0.1
